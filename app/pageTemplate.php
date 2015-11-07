@@ -1,6 +1,10 @@
 <?php
 
 abstract class pageTemplate{
+
+	/**
+	* @
+	*/
 	
 	public function get(){
 
@@ -15,7 +19,6 @@ abstract class pageTemplate{
 
 	}
 	
-
 }
 
 ?>
