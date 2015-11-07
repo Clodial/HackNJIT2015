@@ -12,8 +12,9 @@ abstract class pageTemplate{
 
 	}
 	public function makeFooter(){
-		
+
 	}
+	
 
 }
 
