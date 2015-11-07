@@ -1,0 +1,12 @@
+Project goals:
+
+Productive Tales
+
+Product brief ->
+	
+	- Production Tales is a web app meant to help teams get work done.
+	- Users have a multitude of 'skills/classes', which they level up and gain badges based on what skills their improving.
+	- Skills include -> Project Management, Coding, Writing, Design, Art, Marketing
+	- Be able to view, add, and 'reclass' people in projects
+	- Make project management be an open-source kind of deal
+	- 
