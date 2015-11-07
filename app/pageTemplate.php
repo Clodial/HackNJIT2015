@@ -1,7 +1,12 @@
 <?php
 
 abstract class pageTemplate{
-	
+
+	/**
+	* @
+	*/
+
+
 }
 
 ?>
